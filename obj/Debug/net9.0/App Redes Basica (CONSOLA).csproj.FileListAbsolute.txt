@@ -1,0 +1,17 @@
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\App Redes Basica (CONSOLA).exe
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\App Redes Basica (CONSOLA).deps.json
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\App Redes Basica (CONSOLA).runtimeconfig.json
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\App Redes Basica (CONSOLA).dll
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\App Redes Basica (CONSOLA).pdb
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).AssemblyInfo.cs
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Rede.57AC1DB8.Up2Date
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).dll
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\refint\App Redes Basica (CONSOLA).dll
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).pdb
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\App Redes Basica (CONSOLA).genruntimeconfig.cache
+C:\Users\sebas\Documents\Programacion\Clases C#\CursoC#\App de redes por consola\obj\Debug\net9.0\ref\App Redes Basica (CONSOLA).dll
